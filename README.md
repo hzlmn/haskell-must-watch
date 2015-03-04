@@ -61,6 +61,11 @@ All contributions are **welcome**.
 - [**Functional Reactive Programming for Musical User Interface** - Paul Hudak](https://vimeo.com/96744621)
 
   [<img src="https://i.vimeocdn.com/video/476988542.webp?mw=960&mh=540" width="200px" height="130px" />](https://vimeo.com/96744621)
+  
+- [**Advanced Functional Programming - The Expression Problem** - Dr. Ralf Lämmel](http://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-Programming-The-Expression-Problem)
+
+  [<img src="http://video.ch9.ms/ch9/90a9/efbbbd66-7550-4b2c-b84f-f082b07490a9/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-P_512.jpg" width="200px" height="130px" />](http://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-Programming-The-Expression-Problem)
+  
 
 ## Workflow
 
