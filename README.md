@@ -4,10 +4,6 @@ Huge list of  videos, talks , courses for Haskell programming language, that i w
 
 All contributions are **welcome**.
 
-Content
-
- - [Testing](Testing)
-
 ## Basic
 
  - [**Introduction to Haskell (part 1)** - David Lain](https://vimeo.com/88540533)
@@ -26,16 +22,6 @@ Content
 
    [![Functional Programming and Haskell](https://i.vimeocdn.com/video/63189999.webp?mw=200&mh=150)](https://vimeo.com/1920921)
 
-## General
-
-- [**How Haskell is Changing my Brain** - Alissa Pajer](https://vimeo.com/96639840)
-
-   [![How Haskell is Changing my Brain](https://i.vimeocdn.com/video/476747540.webp?mw=200&mh=150)](https://vimeo.com/96639840)
-
-- [**Functional Programming News** - Nick Partridge](https://vimeo.com/88487290)
-
-   [![Functional Programming News](https://i.vimeocdn.com/video/466973691.webp?mw=200&mh=150)](https://vimeo.com/88487290)
-   
 - [**Functional Programming Fundamentals, Chapter 1 of 13** - Dr. Erik Meijer](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
 
    [<img src="http://video.ch9.ms/ch9/4133/c526c20b-7aea-44ce-a8e7-8e703b054133/Lecture-Series-Erik-Meijer-Functional-Programming_960.jpg" width="200px" height="140px" />](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
@@ -46,6 +32,16 @@ Content
   
 - [**Other chapters of lectures** by Dr. Erik Meijer](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
 
+## General
+
+- [**How Haskell is Changing my Brain** - Alissa Pajer](https://vimeo.com/96639840)
+
+   [![How Haskell is Changing my Brain](https://i.vimeocdn.com/video/476747540.webp?mw=200&mh=150)](https://vimeo.com/96639840)
+
+- [**Functional Programming News** - Nick Partridge](https://vimeo.com/88487290)
+
+   [![Functional Programming News](https://i.vimeocdn.com/video/466973691.webp?mw=200&mh=150)](https://vimeo.com/88487290)
+   
 - [**Haskell ad social web** - Phillip Weaver](https://vimeo.com/21210266)
 
   [<img src="https://i.vimeocdn.com/video/147437664.webp?mw=960&mh=540" width="200px" height="140px" />](https://vimeo.com/21210266)
@@ -57,6 +53,14 @@ Content
 - [**Haskell Amuse-Bouche - Mark Lentczne**](https://www.youtube.com/watch?v=b9FagOVqxmI)
 
   [<img src="http://i.ytimg.com/vi/b9FagOVqxmI/mqdefault.jpg" width="200px" height="140px" />](https://www.youtube.com/watch?v=b9FagOVqxmI)
+  
+- [**Demystifying Haskell**  - Andrew Rademacher](https://www.youtube.com/watch?v=apBWkBDVlow)
+
+  [<img src="http://i.ytimg.com/vi/apBWkBDVlow/mqdefault.jpg" width="200px" height="140px" />](https://www.youtube.com/watch?v=apBWkBDVlow)
+  
+- [**Functional Reactive Programming for Musical User Interface** - Paul Hudak](https://vimeo.com/96744621)
+
+  [<img src="https://i.vimeocdn.com/video/476988542.webp?mw=960&mh=540" width="200px" height="130px" />](https://vimeo.com/96744621)
 
 ## Workflow
 
@@ -64,6 +68,21 @@ Content
 
   [<img src="http://i.ytimg.com/vi/Li6oaO8x2VY/mqdefault.jpg" width="200px" height="130px" />](https://www.youtube.com/watch?v=Li6oaO8x2VY)
   
+## Data 
+
+- [**Practical Data Processing With Haskell and Putting Cloud Haskell to Work** - Ozgun Ataman and Gershom Bazerman](https://vimeo.com/53906049)
+
+  [<img src="https://i.vimeocdn.com/video/372596445.webp?mw=960&mh=540" width="200px" height="130px" />](https://vimeo.com/53906049)
+  
+- [**Adventure with Types in Haskell (Lecture 1)** - Simon Peyton Jones ](https://www.youtube.com/watch?v=6COvD8oynmI)
+
+  [<img src="http://i.ytimg.com/vi/6COvD8oynmI/mqdefault.jpg" width="200px" height="130px" />](https://www.youtube.com/watch?v=6COvD8oynmI)
+  
+- [**Adventure with Types in Haskell (Lecture 2)** - Simon Peyton Jones ](https://www.youtube.com/watch?v=brE_dyedGm0)
+
+  [<img src="http://i.ytimg.com/vi/brE_dyedGm0/default.jpg" width="200px" height="130px" />](https://www.youtube.com/watch?v=brE_dyedGm0)
+  
+
 ## Testing
 
 - [**Types and Testing in Haskell** - Daniel Patterson](https://vimeo.com/112858645)
