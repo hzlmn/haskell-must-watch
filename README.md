@@ -4,6 +4,10 @@ Huge list of  videos, talks , courses for Haskell programming language, that i w
 
 All contributions are **welcome**.
 
+Content
+
+ - [Testing](Testing)
+
 ## Basic
 
  - [**Introduction to Haskell (part 1)** - David Lain](https://vimeo.com/88540533)
@@ -40,7 +44,7 @@ All contributions are **welcome**.
 
   [<img src="http://video.ch9.ms/ecn/previewImages/220/494398_220x165.jpg" width="200px" height="140px" />](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-2)
   
-- [**Other chapters of ectures** by Dr. Erik Meijer](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
+- [**Other chapters of lectures** by Dr. Erik Meijer](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
 
 - [**Haskell ad social web** - Phillip Weaver](https://vimeo.com/21210266)
 
@@ -49,6 +53,10 @@ All contributions are **welcome**.
 - [**Don Stewart on Real World Haskell**](https://www.youtube.com/watch?v=4YfkwfZ7AV4)
 
   [<img src="http://i.ytimg.com/vi_webp/4YfkwfZ7AV4/default.webp" width="200px" height="140px" />](https://www.youtube.com/watch?v=4YfkwfZ7AV4)
+  
+- [**Haskell Amuse-Bouche - Mark Lentczne**](https://www.youtube.com/watch?v=b9FagOVqxmI)
+
+  [<img src="http://i.ytimg.com/vi/b9FagOVqxmI/mqdefault.jpg" width="200px" height="140px" />](https://www.youtube.com/watch?v=b9FagOVqxmI)
 
 ## Workflow
 
