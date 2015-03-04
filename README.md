@@ -2,6 +2,8 @@
 
 Huge list of  videos, talks , courses for Haskell programming language, that i want to remember.
 
+All contributions are **welcome**.
+
 ## Basic
 
  - [**Introduction to Haskell (part 1)** - David Lain](https://vimeo.com/88540533)
@@ -36,9 +38,30 @@ Huge list of  videos, talks , courses for Haskell programming language, that i w
    
 - [**Functional Programming Fundamentals, Chapter 2 of 13** - Dr. Erik Meijer](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-2)
 
-   [<img src="http://video.ch9.ms/ecn/previewImages/220/494398_220x165.jpg" width="200px" height="140px" />](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-2)
-   
+  [<img src="http://video.ch9.ms/ecn/previewImages/220/494398_220x165.jpg" width="200px" height="140px" />](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-2)
+  
 - [**Other chapters of ectures** by Dr. Erik Meijer](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
+
+- [**Haskell ad social web** - Phillip Weaver](https://vimeo.com/21210266)
+
+  [<img src="https://i.vimeocdn.com/video/147437664.webp?mw=960&mh=540" width="200px" height="140px" />](https://vimeo.com/21210266)
+  
+- [**Don Stewart on Real World Haskell**](https://www.youtube.com/watch?v=4YfkwfZ7AV4)
+
+  [<img src="http://i.ytimg.com/vi_webp/4YfkwfZ7AV4/default.webp" width="200px" height="140px" />](https://www.youtube.com/watch?v=4YfkwfZ7AV4)
+
+## Workflow
+
+- [**Haskell Development Workflow** - Christopher Allen](https://www.youtube.com/watch?v=Li6oaO8x2VY)
+
+  [<img src="http://i.ytimg.com/vi/Li6oaO8x2VY/mqdefault.jpg" width="200px" height="130px" />](https://www.youtube.com/watch?v=Li6oaO8x2VY)
+  
+## Testing
+
+- [**Types and Testing in Haskell** - Daniel Patterson](https://vimeo.com/112858645)
+
+  [<img src="https://i.vimeocdn.com/video/497977555.webp?mw=200&mh=140" width="200px" height="130px" />](https://vimeo.com/112858645)
+
 
 
 
