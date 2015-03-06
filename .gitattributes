@@ -1,1 +1,2 @@
 *.md linguist-language=Haskell
+*.md linguist-documentation=false
