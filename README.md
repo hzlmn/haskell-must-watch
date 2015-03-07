@@ -66,6 +66,9 @@ All contributions are **welcome**.
 
   [<img src="http://video.ch9.ms/ch9/90a9/efbbbd66-7550-4b2c-b84f-f082b07490a9/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-P_512.jpg" width="200px" height="130px" />](http://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-Programming-The-Expression-Problem)
   
+- [**Running startup on Haskell** - Bryan O'Sullivan](https://www.youtube.com/watch?v=ZR3Jirqk6W8)
+
+  [<img src="http://i.ytimg.com/vi_webp/ZR3Jirqk6W8/mqdefault.webp" width="200px" height="130px" />](https://www.youtube.com/watch?v=ZR3Jirqk6W8)
 
 ## Workflow
 
