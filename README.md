@@ -32,6 +32,10 @@ All contributions are **welcome**.
   
 - [**Other chapters of lectures** by Dr. Erik Meijer](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
 
+- [**A taste of Haskell** - Simon Peyton Jones ](https://www.youtube.com/watch?v=jLj1QV11o9g)
+
+  [<img src="http://i.ytimg.com/vi/jLj1QV11o9g/mqdefault.jpg" width="200px" height="130px" />](https://www.youtube.com/watch?v=jLj1QV11o9g)
+
 ## General
 
 - [**How Haskell is Changing my Brain** - Alissa Pajer](https://vimeo.com/96639840)
