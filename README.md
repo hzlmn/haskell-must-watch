@@ -102,5 +102,13 @@ All contributions are **welcome**.
   [<img src="https://i.vimeocdn.com/video/497977555.webp?mw=200&mh=140" width="200px" height="130px" />](https://vimeo.com/112858645)
 
 
+**Tip:** If you want to download all videos from this list, you can use command by [@jefdaj](http://www.reddit.com/user/jefdaj)
+```bash
+curl https://raw.githubusercontent.com/drKraken/haskell-must-watch/master/README.md |
+grep -Po '\(https?://(.*)\)' | tr -d '()' |
+xargs youtube-dl
+```
+Note that you need youtube-dl for correct work.
+
 
 
