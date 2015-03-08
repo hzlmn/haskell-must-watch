@@ -6,13 +6,13 @@ All contributions are **welcome**.
 
 ## Basic
 
- - [**Introduction to Haskell (part 1)** - David Lain](https://vimeo.com/88540533)
+ - [**Introduction to Haskell (part 1)** - David Laing](https://vimeo.com/88540533)
 
-   [![Introduction to Haskell (part 1) - David     Lain](https://i.vimeocdn.com/video/467059673.webp?mw=200&mh=150)](https://vimeo.com/88540533)
+   [![Introduction to Haskell (part 1) - David Laing](https://i.vimeocdn.com/video/467059673.webp?mw=200&mh=150)](https://vimeo.com/88540533)
    
 - [**Introduction to Haskell (part 2)** - Nick Partridge](https://vimeo.com/90515452)
 
-   [![Introduction to Haskell (part 2) - David     Lain](https://i.vimeocdn.com/video/469701808.webp?mw=200&mh=150)](https://vimeo.com/90515452)
+   [![Introduction to Haskell (part 2) - Nick Partridge](https://i.vimeocdn.com/video/469701808.webp?mw=200&mh=150)](https://vimeo.com/90515452)
    
 - [**Introduction to Haskell (part 3)** - Matthew Brecknell](https://vimeo.com/92976563)
 
