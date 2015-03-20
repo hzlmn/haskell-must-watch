@@ -1,4 +1,5 @@
 # Haskell must watch
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/drKraken/haskell-must-watch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Huge list of  videos, talks , courses for Haskell programming language, that i want to remember.
 
