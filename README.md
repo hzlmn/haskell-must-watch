@@ -75,6 +75,14 @@ All contributions are **welcome**.
 
   [<img src="http://i.ytimg.com/vi/ZR3Jirqk6W8/mqdefault.jpg" width="200px" height="130px" />](https://www.youtube.com/watch?v=ZR3Jirqk6W8)
 
+- [**GHCJS: Bringing Haskell to the Browser** -  Luite Stegeman][GHCJS]
+
+  [<img src="https://i.vimeocdn.com/video/456929997_150x84.jpg" width="200px" height="130px"/>][GHCJS]
+
+- [**Using Lenses to Structure State** - Nathan Bouscal][lenses]
+
+  [<img src="https://i.vimeocdn.com/video/469227196_150x84.jpg" width="200px" height="130px"/>][lenses]
+
 ## Workflow
 
 - [**Haskell Development Workflow** - Christopher Allen](https://www.youtube.com/watch?v=Li6oaO8x2VY)
@@ -96,6 +104,10 @@ All contributions are **welcome**.
   [<img src="http://i.ytimg.com/vi/brE_dyedGm0/default.jpg" width="200px" height="130px" />](https://www.youtube.com/watch?v=brE_dyedGm0)
   
 
+- [**Conquering Hadoop with Haskell** - Ozgun Ataman][hadoop]
+
+  [<img src="https://i.vimeocdn.com/video/469235326_150x84.jpg" width="200px" height="130px" />][hadoop]
+
 ## Testing
 
 - [**Types and Testing in Haskell** - Daniel Patterson](https://vimeo.com/112858645)
@@ -110,6 +122,10 @@ grep -Po '\(https?://(.*)\)' | tr -d '()' |
 xargs youtube-dl
 ```
 Note that you need youtube-dl for correct work.
+
+[GHCJS]:http://vimeo.com/80895330
+[lenses]:http://vimeo.com/90184695
+[hadoop]:http://vimeo.com/90189610
 
 
 
