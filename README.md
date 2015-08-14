@@ -108,6 +108,10 @@ All contributions are **welcome**.
 
   [<img src="https://i.vimeocdn.com/video/469235326_150x84.jpg" width="200px" height="130px" />][hadoop]
 
+- [**Parsing Stuff in Haskell** - Ben Clifford][parsec]
+
+  [<img src="http://i.ytimg.com/vi/r_Enynu_TV0/default.jpg" width="200px" height="130px" />][parsec]
+
 ## Testing
 
 - [**Types and Testing in Haskell** - Daniel Patterson](https://vimeo.com/112858645)
@@ -126,6 +130,7 @@ Note that you need youtube-dl for correct work.
 [GHCJS]:http://vimeo.com/80895330
 [lenses]:http://vimeo.com/90184695
 [hadoop]:http://vimeo.com/90189610
+[parsec]:https://www.youtube.com/watch?v=r_Enynu_TV0
 
 
 
