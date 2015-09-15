@@ -119,10 +119,10 @@ All contributions are **welcome**.
   [<img src="https://i.vimeocdn.com/video/497977555_200x130.jpg" width="200px" height="130px" />](https://vimeo.com/112858645)
 
 
-**Tip:** If you want to download all videos from this list, you can use command by [@jefdaj](http://www.reddit.com/user/jefdaj)
+**Tip:** If you want to download all videos from this list, you can use command by [@jefdaj](http://www.reddit.com/user/jefdaj) and Reddit community
 ```bash
 curl https://raw.githubusercontent.com/drKraken/haskell-must-watch/master/README.md |
-grep -Po '\(https?://(.*)\)' | tr -d '()' | head -n -1 | tail -n +2 | sort | uniq |
+grep -Po '\(https?://(.*)\)' | tr -d '()' | sort | uniq | head -n -1 | tail -n +6 | tac |
 xargs youtube-dl
 ```
 Note that you need youtube-dl for correct work.
