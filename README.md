@@ -9,19 +9,19 @@ All contributions are **welcome**.
 
  - [**Introduction to Haskell (part 1)** - David Laing](https://vimeo.com/88540533)
 
-   [![Introduction to Haskell (part 1) - David Laing](https://i.vimeocdn.com/video/467059673_200x150.jpg)](https://vimeo.com/88540533)
+   [<img src="https://i.vimeocdn.com/video/467059673_200x150.jpg" width="200px" height="150px"/>](https://vimeo.com/88540533)
    
 - [**Introduction to Haskell (part 2)** - Nick Partridge](https://vimeo.com/90515452)
 
-   [![Introduction to Haskell (part 2) - Nick Partridge](https://i.vimeocdn.com/video/469701808_200x150.jpg)](https://vimeo.com/90515452)
+   [<img src="https://i.vimeocdn.com/video/469701808_200x150.jpg" width="200px" height="150px"/>](https://vimeo.com/90515452)
    
 - [**Introduction to Haskell (part 3)** - Matthew Brecknell](https://vimeo.com/92976563)
 
-   [![Introduction to Haskell (part 3) - Matthew Brecknell](https://i.vimeocdn.com/video/472928030_200x150.jpg)](https://vimeo.com/92976563)
+   [<img src="https://i.vimeocdn.com/video/472928030_200x150.jpg" width="200px" height="150px"/>](https://vimeo.com/92976563)
    
 - [**Functional Programming and Haskell** - Tim Dawborn and James Constab](https://vimeo.com/1920921)
 
-   [![Functional Programming and Haskell](https://i.vimeocdn.com/video/63189999_200x150.jpg)](https://vimeo.com/1920921)
+   [<img src="https://i.vimeocdn.com/video/63189999_200x150.jpg" width="200px" height="150px" />](https://vimeo.com/1920921)
 
 - [**Functional Programming Fundamentals, Chapter 1 of 13** - Dr. Erik Meijer](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
 
@@ -41,11 +41,11 @@ All contributions are **welcome**.
 
 - [**How Haskell is Changing my Brain** - Alissa Pajer](https://vimeo.com/96639840)
 
-   [![How Haskell is Changing my Brain](https://i.vimeocdn.com/video/476747540_200x150.jpg)](https://vimeo.com/96639840)
+   [<img src="https://i.vimeocdn.com/video/476747540_200x150.jpg" width="200px" height="150px"/>](https://vimeo.com/96639840)
 
 - [**Functional Programming News** - Nick Partridge](https://vimeo.com/88487290)
 
-   [![Functional Programming News](https://i.vimeocdn.com/video/466973691_200x150.jpg)](https://vimeo.com/88487290)
+   [<img src="https://i.vimeocdn.com/video/466973691_200x150.jpg" width="200px" height="150px"/>](https://vimeo.com/88487290)
    
 - [**Haskell and the Social Web** - Phillip Weaver](https://vimeo.com/21210266)
 
