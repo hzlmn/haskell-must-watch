@@ -120,7 +120,7 @@ All contributions are **welcome**.
 
 **Tip:** If you want to download all videos from this list, you can use command by [@jefdaj](http://www.reddit.com/user/jefdaj) and Reddit community
 ```bash
-curl https://raw.githubusercontent.com/drKraken/haskell-must-watch/master/README.md |
+curl https://raw.githubusercontent.com/hzlmn/haskell-must-watch/master/README.md |
 grep -Po '\(https?://(.*)\)' | tr -d '()' | sort | uniq | head -n -1 | tail -n +6 | tac |
 xargs youtube-dl
 ```
